@@ -8,7 +8,7 @@
 </p>
 <div size='20px' align="center">Thank You for taking the time to view my GitHub Profile 
 </div><br />
-<div size='20px' align="center">Go To https://download-directory.github.io/ for Download Specific Folder From this Repository. 
+<div size='20px' align="center">Please Switch Branches to See my Portfolio Projects. 
 </div>
 <hr />
 <p align="center">
